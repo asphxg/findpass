@@ -1,5 +1,7 @@
 # findpass
-基于sphinx的社工库
+基于Sphinx的社工库
+
+环境：Php + Mysql + Sphinx
 
 Ps：http://www.96sec.org/blog/post/264.html
 
