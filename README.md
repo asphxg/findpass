@@ -3,7 +3,4 @@
 
 环境：Php + Mysql + Sphinx
 
-Ps：http://www.96sec.org/blog/post/264.html
-
-
-![如图](test.jpg) 
+![如图](/test.jpg) 
